@@ -10,13 +10,13 @@ import { CoursesService } from '../services/courses.service';
   styleUrls: ['./courses.component.css']
 })
 export class CoursesComponent implements OnInit{
-  courses: Observable<Course[] >;
+  courses$: Observable<Course[] >;
   displayedColumns = ['name', 'category'];
 
   constructor(
     private coursesService: CoursesService
   ) {
-    this.courses = this.coursesService.list();
+    this.courses$ = this.coursesService.list();
    }
 
   ngOnInit(): void {
