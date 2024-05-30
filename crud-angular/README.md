@@ -1,27 +1,45 @@
-# CrudAngular
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [ x ] Aula 01 - data de inicio aula: 10/05/2024
+- [ x ] Aula 02 - data de inicio aula: 10/05/2024
+- [ x ] Aula 03 - data de inicio aula: 10/05/2024
+- [ x ] Aula 04 - data de inicio aula: 10/05/2024
+- [ x ] Aula 05 - data de inicio aula: 10/05/2024
+- [ x ] Aula 06 - data de inicio aula: 10/05/2024
+- [ x ] Aula 07 - data de inicio aula: 10/05/2024
+- [ x ] Aula 08 - data de inicio aula: 10/05/2024
+- [ x ] Aula 09 - data de inicio aula: 10/05/2024
+- [ x ] Aula 10 - data de inicio aula: 10/05/2024
+- [ x ] Aula 11 - data de inicio aula: 10/05/2024
+- [ x ] Aula 12 - data de inicio aula: 13/05/2024
+- [ x ] Aula 13 - data de inicio aula: 13/05/2024
+- [ x ] Aula 14 - data de inicio aula: 13/05/2024
+- [ x ] Aula 15 - data de inicio aula: 14/05/2024
+- [] Aula 16 - data de inicio aula: 
+- [] Aula 17 - data de inicio aula: 
+- [] Aula 18 - data de inicio aula: 
+- [] Aula 19 - data de inicio aula: 
+- [] Aula 20 - data de inicio aula: 
+- [] Aula 21 - data de inicio aula: 
+- [] Aula 22 - data de inicio aula: 
+- [] Aula 23 - data de inicio aula: 
+- [] Aula 24 - data de inicio aula: 
+- [] Aula 25 - data de inicio aula: 
+- [] Aula 26 - data de inicio aula: 
+- [] Aula 27 - data de inicio aula: 
+- [] Aula 28 - data de inicio aula: 
+- [] Aula 29 - data de inicio aula: 
+- [] Aula 30 - data de inicio aula: 
+- [] Aula 31 - data de inicio aula: 
+- [] Aula 32 - data de inicio aula: 
+- [] Aula 33 - data de inicio aula: 
+- [] Aula 34 - data de inicio aula: 
+- [] Aula 35 - data de inicio aula: 
+- [] Aula 36 - data de inicio aula: 
+- [] Aula 37 - data de inicio aula: 
+- [] Aula 38 - data de inicio aula: 
+- [] Aula 39 - data de inicio aula: 
+- [] Aula 40 - data de inicio aula: 
+- [] Aula 41 - data de inicio aula: 
+- [] Aula 42 - data de inicio aula: 
+- [] Aula 43 - data de inicio aula: 
+- [] Aula 44 - data de inicio aula: 
+- [] Aula 45 - data de inicio aula: 
